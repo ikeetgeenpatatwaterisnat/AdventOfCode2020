@@ -1,0 +1,13 @@
+C:\Users\max96\source\repos\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\Advent2020.exe
+C:\Users\max96\source\repos\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\Advent2020.deps.json
+C:\Users\max96\source\repos\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\Advent2020.runtimeconfig.json
+C:\Users\max96\source\repos\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\Advent2020.runtimeconfig.dev.json
+C:\Users\max96\source\repos\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\Advent2020.dll
+C:\Users\max96\source\repos\Advent2020\Advent2020\bin\Debug\netcoreapp3.1\Advent2020.pdb
+C:\Users\max96\source\repos\Advent2020\Advent2020\obj\Debug\netcoreapp3.1\Advent2020.csprojAssemblyReference.cache
+C:\Users\max96\source\repos\Advent2020\Advent2020\obj\Debug\netcoreapp3.1\Advent2020.AssemblyInfoInputs.cache
+C:\Users\max96\source\repos\Advent2020\Advent2020\obj\Debug\netcoreapp3.1\Advent2020.AssemblyInfo.cs
+C:\Users\max96\source\repos\Advent2020\Advent2020\obj\Debug\netcoreapp3.1\Advent2020.csproj.CoreCompileInputs.cache
+C:\Users\max96\source\repos\Advent2020\Advent2020\obj\Debug\netcoreapp3.1\Advent2020.dll
+C:\Users\max96\source\repos\Advent2020\Advent2020\obj\Debug\netcoreapp3.1\Advent2020.pdb
+C:\Users\max96\source\repos\Advent2020\Advent2020\obj\Debug\netcoreapp3.1\Advent2020.genruntimeconfig.cache
