@@ -4,7 +4,7 @@ namespace Advent2020 {
     class Program {
         static void Main(string[] args) {
 
-            Console.WriteLine(Day3.Assignment2());
+            Console.WriteLine(Day4.Assignment2());
 
         }
 
